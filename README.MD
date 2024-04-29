@@ -8,8 +8,8 @@ O BeeCrowd é uma plataforma online que oferece uma variedade de problemas de pr
 
 ## Ranking IFPI
 
-Atualmente, estou classificado em **26º lugar** no ranking do Instituto Federal do Piauí no BeeCrowd.
+Atualmente, estou classificado em **16º lugar** no ranking do Instituto Federal do Piauí no BeeCrowd.
 
 
 [Perfil do BeeCrowd](https://judge.beecrowd.com/pt/profile/641083)
-[BeeCrowd - Ranking IFPI](https://judge.beecrowd.com/pt/users/university/ifpi-geral?page=2)
+[BeeCrowd - Ranking IFPI](https://judge.beecrowd.com/pt/users/university/ifpi-geral)

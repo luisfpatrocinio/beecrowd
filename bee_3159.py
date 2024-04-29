@@ -17,7 +17,7 @@ def trocarLetraPorNumero(char: str) -> int:
     else:
         retorno += "#"
     # A = 0, B = 1, C = 2
-
+    
     alfabeto    = [2, 2, 2, 3, 3, 3, 
                 4, 4, 4, 5, 5, 5, 6, 6, 6,
                 7, 7, 7, 7, 8, 8, 8, 9, 9, 9, 9]
@@ -57,7 +57,7 @@ def main():
             
             resultado += digito
 
-            # ---   222#2
+            # ---   222#2-
 
         # Saída
         print(resultado)
